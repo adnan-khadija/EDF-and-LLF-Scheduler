@@ -4,10 +4,6 @@ import streamlit as st
 from edf_scheduler import Task, lcm_for_periods
 
 def calculate_laxity(task: Task, current_time: int) -> int:
-    """Calculer la laxité d'une tâche à un instant donné.
-    La laxité est le temps disponible jusqu'à la deadline moins le temps d'exécution restant.
-    Une laxité négative signifie que la tâche va probablement manquer sa deadline.
-    """
     if task.remaining_time == 0:  # Si la tâche est terminée
         return float('inf')  # Laxité infinie
     
