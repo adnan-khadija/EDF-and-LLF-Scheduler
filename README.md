@@ -15,8 +15,8 @@ Ce projet est un simulateur d'ordonnancement temps réel implémentant les algor
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/VOTRE_USERNAME/EDF_LLF.git
-cd EDF_LLF
+[git clone https://github.com/VOTRE_USERNAME/EDF_LLF.git](https://github.com/adnan-khadija/EDF-and-LCM-Scheduler.git)
+cd EDF-and-LCM-Scheduler
 ```
 
 2. Installer les dépendances :
@@ -37,6 +37,3 @@ streamlit run app.py
 - `edf_scheduler.py` : Implémentation de l'algorithme EDF
 - `llf_scheduler.py` : Implémentation de l'algorithme LLF
 
-## Licence
-
-MIT License
