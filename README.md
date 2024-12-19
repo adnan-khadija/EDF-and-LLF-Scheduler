@@ -11,6 +11,14 @@ Ce projet est un simulateur d'ordonnancement temps réel implémentant les algor
 - Calcul automatique du taux d'utilisation
 - Détection des deadlines manquées
 
+  ![Capture d'écran 2024-12-19 153639](https://github.com/user-attachments/assets/e93f4d13-f3fe-4b27-ac02-2b9dea465345)
+
+  <img width="959" alt="image" src="https://github.com/user-attachments/assets/447cf478-ce11-4e41-a819-63115a71f96b" />
+
+  ![Capture d'écran 2024-12-19 153748](https://github.com/user-attachments/assets/7c442bf6-b19f-4822-b306-115b3aae0b49)
+
+
+
 ## Installation
 
 1. Cloner le repository :
